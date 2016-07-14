@@ -12,6 +12,8 @@
 		37CAA61C1D373CE300D7EBFD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37CAA61A1D373CE300D7EBFD /* Main.storyboard */; };
 		37CAA61E1D373CE300D7EBFD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37CAA61D1D373CE300D7EBFD /* Assets.xcassets */; };
 		37CAA6211D373CE300D7EBFD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37CAA61F1D373CE300D7EBFD /* LaunchScreen.storyboard */; };
+		37CAA6291D373D3E00D7EBFD /* weather.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37CAA6281D373D3E00D7EBFD /* weather.jpg */; };
+		37CAA62B1D373D9D00D7EBFD /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 37CAA62A1D373D9D00D7EBFD /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		37CAA61D1D373CE300D7EBFD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		37CAA6201D373CE300D7EBFD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		37CAA6221D373CE300D7EBFD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37CAA6281D373D3E00D7EBFD /* weather.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weather.jpg; sourceTree = "<group>"; };
+		37CAA62A1D373D9D00D7EBFD /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				37CAA6161D373CE300D7EBFD /* AppDelegate.swift */,
 				37CAA6181D373CE300D7EBFD /* ViewController.swift */,
 				37CAA61A1D373CE300D7EBFD /* Main.storyboard */,
+				37CAA62A1D373D9D00D7EBFD /* background.png */,
+				37CAA6281D373D3E00D7EBFD /* weather.jpg */,
 				37CAA61D1D373CE300D7EBFD /* Assets.xcassets */,
 				37CAA61F1D373CE300D7EBFD /* LaunchScreen.storyboard */,
 				37CAA6221D373CE300D7EBFD /* Info.plist */,
@@ -124,7 +130,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				37CAA6211D373CE300D7EBFD /* LaunchScreen.storyboard in Resources */,
+				37CAA62B1D373D9D00D7EBFD /* background.png in Resources */,
 				37CAA61E1D373CE300D7EBFD /* Assets.xcassets in Resources */,
+				37CAA6291D373D3E00D7EBFD /* weather.jpg in Resources */,
 				37CAA61C1D373CE300D7EBFD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
